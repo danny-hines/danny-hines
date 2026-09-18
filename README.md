@@ -1,16 +1,14 @@
-## Hi there 👋
+# Danny Hines
 
-<!--
-**danny-hines/danny-hines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineer & maker.** Eight years as an electrician, ten years shipping software at Meta. Most evenings, following an idea into the garage.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Sparkade](https://github.com/danny-hines/sparkade)** — A Raspberry Pi arcade cabinet that turns a player's photo and voice prompt into a custom SNES-style game.
+- **[MuseCam](https://github.com/danny-hines/muse-cam)** — A handheld Raspberry Pi camera that turns everyday photos into clay worlds, crayon drawings, and retro game scenes.
+- **[muse-code-bridge](https://github.com/danny-hines/muse-code-bridge)** — Use Muse Code from Codex, Hermes, and OpenCode through a local MCP bridge. (MIT)
+
+## Elsewhere
+
+- [dannyhines.dev](https://dannyhines.dev) — portfolio and project write-ups
+- Instagram: [@danny.j.hines](https://instagram.com/danny.j.hines)
