@@ -1,14 +1,17 @@
 # Danny Hines
 
-**Software engineer & maker.** Eight years as an electrician, ten years shipping software at Meta. Most evenings, following an idea into the garage.
+**I build with AI, in software and in my shop.** Tech lead at Meta, where I shipped the first AI feature on Facebook web. Before software, eight years as an electrician.
 
-## What I'm building
+## Building now
 
-- **[Sparkade](https://github.com/danny-hines/sparkade)** — A Raspberry Pi arcade cabinet that turns a player's photo and voice prompt into a custom SNES-style game.
-- **[MuseCam](https://github.com/danny-hines/muse-cam)** — A handheld Raspberry Pi camera that turns everyday photos into clay worlds, crayon drawings, and retro game scenes.
-- **[muse-code-bridge](https://github.com/danny-hines/muse-code-bridge)** — Use Muse Code from Codex, Hermes, and OpenCode through a local MCP bridge. (MIT)
+- **[MuseCam](https://github.com/danny-hines/muse-cam)**: an open-source, 3D-printed Raspberry Pi camera that turns every photo into a new world.
+- **[Sparkade](https://github.com/danny-hines/sparkade)**: an arcade cabinet that invents a new SNES-style game from your photo and a voice prompt.
+- **[muse-code-bridge](https://github.com/danny-hines/muse-code-bridge)**: call Muse Code from Codex, OpenCode, and other coding agents over MCP.
+
+## How I build
+
+Agents do most of the typing. My job is the spec, the constraints, and deciding what the model should *not* do. In Sparkade, for example, the AI never writes game code. It tunes six engines I built, which keeps every game fast and playable.
 
 ## Elsewhere
 
-- [dannyhines.dev](https://dannyhines.dev) — portfolio and project write-ups
-- Instagram: [@danny.j.hines](https://instagram.com/danny.j.hines)
+[dannyhines.dev](https://dannyhines.dev) · [X](https://x.com/dannyjhines) · [LinkedIn](https://www.linkedin.com/in/danielhines/)
